@@ -1,5 +1,6 @@
-token=NTM2OTY3ODk0MTI3MzQ1Njc2.DyeZ4w.tNI9firIGnpYsZl57YsCMr8xsSw
-owner=433198762706599936
-prefix=t
+token=NTU4MjY3MTQwNzM4OTA4MTgx.D3UWTQ.AngxQIJM-vxjF2BQl8pUredHq38
+owner=306917613152239616
+prefix=p
+game=Bebeto Ez3ag
 stayinchannel=true
 songinstatus=true 
